@@ -10,13 +10,13 @@ header {
     display: flex;
     flex-direction: column;
     height: 100vh;
+     background-color: rgb(81, 94, 238);
 }
 
 
 .header {
 
     height: 30px;
-
     background-color: rgb(81, 94, 238);
 }
 .slider {
